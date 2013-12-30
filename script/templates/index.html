@@ -1,0 +1,32 @@
+$def with(entities)
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="zuohaitao" />
+<link rel="alternate" type="application/rss+xml" title="CodePongo Cook RSS Feed" href="http://cook.codepongo.com/rss">
+<link rel="stylesheet" type="text/css" href="/cookstyle.css" />
+<title>CodePongo - cook</title>
+</head>
+<body>
+<div class="container">
+<div id="title">
+</div>
+$for e in entities:
+    <div class="entity">
+    <div class="image">$:e['image']</div>
+    <div class="name"><a href="$:e['id']">$:e['title']</a></div>
+    </div>
+</div>
+<div id="foot">
+<b>(cc) BY-NC-SA</b><br/>Powered by <a href="https://codepongo.com/blog">cook</a><br/>Proudly NOT powered by WordPress or Jekyll
+<div id="nav">
+<a href="http://codepongo.com/blog">主页</a>
+<a href="http://codepongo.com/blog/application/">应用</a>
+<a href="http://note.codepongo.com">日记</a>
+<a href="http://news.codepongo.com" target="_blank">新闻</a>
+<a href="http://codepongo.com/aboutme">关于我</a>
+</div>
+</div>
+</body>
+</html>
