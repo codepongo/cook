@@ -22,13 +22,4 @@ if you  want to improve the website, or post your cookbook you can push it to me
 如果想一起改善网站或发布你的菜谱，你可以推送给我
 
 ## TODO ##
-css分离
-布局
 测试多项
-分页按钮
-提交至github
-二级域名配置
-vps环境
-集成至aboutme
-集成至note,blog
-中英双语

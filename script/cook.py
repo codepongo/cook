@@ -60,7 +60,6 @@ class static:
             with open(os.path.join(css_path, name), 'rb') as f:
                 content = f.read()
                 f.close()
-                print content
                 return content
         if name == 'robots.txt':
             web.header('content-type', 'text/plain')
@@ -86,7 +85,13 @@ class cook(base):
         render = web.template.render(templates)
         try:
             idx = int(idx)
-            return render.entity(base.entity(self,idx))
+            p = n = True
+            print idx, count
+            if idx <= 0:
+                p = False
+            if idx >= count - 1:
+                n = False
+            return render.entity(base.entity(self,idx), idx, p, n)
         except:
             return render.index(base.entities(self))
 

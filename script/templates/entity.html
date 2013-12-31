@@ -1,4 +1,4 @@
-$def with(entities)
+$def with(entities, idx, prev, next)
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,8 +10,14 @@ $def with(entities)
 </head>
 <body>
 <div class="container">
-<div id="nav">
+<div class="nav">
 <a href="/">返回菜谱</a>
+<div id="page">
+$if prev:
+    <div id="prev"><a href="$(idx-1)">上一页</a></div>
+$if next:
+    <div id="next"><a href="$(idx+1)">下一页</a></div>
+</div>
 </div>
 $for e in entities:
 	<div class="entity">
@@ -20,10 +26,11 @@ $for e in entities:
 <div id="foot">
 <b>(cc) BY-NC-SA</b><br/>Powered by <a href="https://codepongo.com/blog">cook</a><br/>Proudly NOT powered by WordPress or Jekyll
 </div>
-<div id="nav">
+<div class="nav">
 <a href="http://codepongo.com/blog">主页</a>
 <a href="http://codepongo.com/blog/application/">应用</a>
-<a href="http://note.codepongo.com">日记</a>
+<a href="http://note.codepongo.com" target="_blank">日记</a>
+<a href="http://cook.codepongo.com" target="_blank">烹饪</a>
 <a href="http://news.codepongo.com" target="_blank">新闻</a>
 <a href="http://codepongo.com/aboutme">关于我</a>
 </div>
