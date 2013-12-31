@@ -57,6 +57,7 @@ class base:
 class static:
     def GET(self, name):
         if os.path.splitext(name)[1][1:] == 'css':
+            web.header('content-type', 'text/css')
             with open(os.path.join(css_path, name), 'rb') as f:
                 content = f.read()
                 f.close()
