@@ -2,16 +2,16 @@ $def with(entities, date,domain)
 <!--?xml version="1.0"?-->
 <rss version="2.0">
 <channel>
-<title>CodePongo Dairy RSS Feed</title>
+<title>CodePongo Cook RSS Feed</title>
 <link>$domain</link>
-<description>codepongo diary</description>
+<description>codepongo cook</description>
 <language>zh-cn</language>
 <pubdate>$date</pubdate>
 <lastbuilddate>$date</lastbuilddate>
 <generator>$domain/feed</generator>
 $for e in entities:
 	<item>
-	<title>$e['date']</title>
+	<title>$e['title'].replace('<p>', '').replace('</p>', '')</title>
 	<link>$domain/$e['id']</link>
 	<description><!--[CDATA[$:e['content']]]--></description>
 	<pubdate>$e['date']</pubdate>

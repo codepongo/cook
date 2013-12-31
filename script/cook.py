@@ -40,6 +40,7 @@ class base:
             return es
         for i in range(begin, end):
             e = {}
+            e['date'] = os.path.splitext(self.entities[i])[0].replace(path+os.sep, '')
             with open(self.entities[i], 'rb') as f:
                 e['id'] = i
                 title = f.readline()
@@ -76,7 +77,7 @@ class feed(base):
         web.header('Content-Type', 'application/xml')
         templates = os.path.join(os.path.dirname(__file__), 'templates')
         render = web.template.render(templates)
-        return render.feed(entities=base.page(self), date=date,domain=domain)
+        return render.feed(entities=base.entities(self), date=date,domain=domain)
 
 class cook(base):
     def GET(self, idx=''):
