@@ -14,6 +14,7 @@ try:
     web.config.debug=conf.debug
     domain = conf.domain
 except:
+    icopath = './'
     path = './md'
     css_path = './css'
     web.config.debug=True
@@ -30,8 +31,9 @@ class base:
             ext = os.path.splitext(p)[1]
             if ext == '.md':
                 self.entities.append(os.path.join(path,p))
+            print self.entities
     def entity(self, idx):
-        return self.generate(idx-1, idx)
+        return self.generate(idx, idx+1)
     def entities(self):
         return self.generate(0, len(self.entities))
     def generate(self, begin, end):
@@ -57,6 +59,12 @@ class base:
 
 class static:
     def GET(self, name):
+        if name == 'favicon.ico':
+            with open(os.path.join(icopath, name), 'rb') as f:
+                content = f.read()
+                f.close()
+                web.header('content-type', 'image/x-icon')
+                return content
         if os.path.splitext(name)[1][1:] == 'css':
             web.header('content-type', 'text/css')
             with open(os.path.join(css_path, name), 'rb') as f:
@@ -103,6 +111,7 @@ urls = (
     '/(.*.jpeg)', static,
     '/(.*.jpg)', static,
     '/(.*.css)', static,
+    '/(favicon.ico)', static,
     '/feed', feed,
     '/(robots.txt)',static,
 

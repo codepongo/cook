@@ -21,5 +21,3 @@ page.
 if you  want to improve the website, or post your cookbook you can push it to me.
 如果想一起改善网站或发布你的菜谱，你可以推送给我
 
-## TODO ##
-测试多项

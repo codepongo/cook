@@ -7,6 +7,7 @@ $def with(entities)
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="alternate" type="application/rss+xml" title="CodePongo Cook RSS Feed" href="http://cook.codepongo.com/rss">
 <link rel="stylesheet" type="text/css" href="/cookstyle.css" />
+<link rel="shortcut icon" href="/favicon.ico"/>
 <title>CodePongo - cook</title>
 </head>
 <body>
@@ -21,8 +22,7 @@ $def with(entities)
 </div>
 $for e in entities:
     <div class="entity">
-    <div class="image">$:e['image']</div>
-    <div class="name"><a href="$:e['id']">$:e['title']</a></div>
+        <div class="name"><a href="$:e['id']">$:e['image']$:e['title']</a></div>
     </div>
 <div id="foot">
 <b>(cc) BY-NC-SA</b><br/>Powered by <a href="https://codepongo.com/blog">cook</a><br/>Proudly NOT powered by WordPress or Jekyll
