@@ -50,9 +50,9 @@ class base:
                 title_tag = f.readline()
                 image = f.readline()
                 e['title'] = markdown2.markdown(title)
-                e['image'] = markdown2.markdown(image).replace('<img src="', '<img width="200" height="200" src="/')
+                e['image'] = markdown2.markdown(image).replace('<img src="', '<img width="480" height="360" src="/')
                 content = title + title_tag + image + f.read()
-                c = markdown2.markdown(content).replace('<img src="', '<img width="200" height="200" src="/')
+                c = markdown2.markdown(content).replace('<img src="', '<img width="480" height="360" src="/')
                 e['content'] = c
                 es.append(e)
                 f.close()
