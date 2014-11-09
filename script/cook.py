@@ -31,7 +31,8 @@ class base:
             ext = os.path.splitext(p)[1]
             if ext == '.md':
                 self.entities.append(os.path.join(path,p))
-        self.entities = self.entities[::-1]
+        if sys.platform == 'win32':
+            self.entities = self.entities[::-1]
     def entity(self, idx):
         return self.generate(idx, idx+1)
     def entities(self):
