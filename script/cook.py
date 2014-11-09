@@ -31,7 +31,7 @@ class base:
             ext = os.path.splitext(p)[1]
             if ext == '.md':
                 self.entities.append(os.path.join(path,p))
-            print self.entities
+        self.entities = self.entities[::-1]
     def entity(self, idx):
         return self.generate(idx, idx+1)
     def entities(self):
