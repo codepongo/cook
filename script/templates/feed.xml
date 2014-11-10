@@ -3,7 +3,7 @@ $def with(entities, date,domain)
 <rss version="2.0">
 <channel>
 <title>CodePongo Cook RSS Feed</title>
-<link>$domain</link>
+<link>http://$domain</link>
 <description>codepongo cook</description>
 <language>zh-cn</language>
 <pubdate>$date</pubdate>

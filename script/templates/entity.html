@@ -13,19 +13,19 @@ $def with(entities, idx, prev, next)
 <div class="container">
 <div class="nav">
 <a href="/">返回菜谱</a>
+</div>
 <div id="page">
 $if prev:
-    <div id="prev"><a href="$(idx-1)">上一页</a></div>
+    <a href="$(idx-1)">上一页</a>
 $if next:
-    <div id="next"><a href="$(idx+1)">下一页</a></div>
-</div>
+    <a href="$(idx+1)">下一页</a>
 </div>
 $for e in entities:
 	<div class="entity">
 	<div class="content">$:e['content']</div>
 	</div>
 <div id="foot">
-<b>(cc) BY-NC-SA</b><br/>Powered by <a href="https://codepongo.com/blog">cook</a><br/>Proudly NOT powered by WordPress or Jekyll
+<b>(cc) BY-NC-SA</b><br/>Powered by <a href="https://github.com/codepongo/cook">cook</a><br/>Proudly NOT powered by WordPress or Jekyll
 </div>
 <div class="nav">
 <a href="http://codepongo.com/blog">主页</a>
