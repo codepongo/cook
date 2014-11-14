@@ -86,7 +86,7 @@ class feed(base):
         web.header('Content-Type', 'application/xml')
         templates = os.path.join(os.path.dirname(__file__), 'templates')
         render = web.template.render(templates)
-        return render.feed(entities=base.entities(self), date=date,domain=domain)
+        return render.feed(entities=base.entities(self)[:5], date=date,domain=domain)
 
 class cook(base):
     def GET(self, idx=''):
