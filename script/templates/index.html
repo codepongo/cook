@@ -21,9 +21,7 @@ $def with(entities)
 <a href="http://me.codepongo.com">关于我</a>
 </div>
 $for e in entities:
-    <div class="entity">
-        <div class="name"><a href="$:e['id']">$:e['image']$:e['title']</a></div>
-    </div>
+    <div class="entity"><a href="$:e['id']"><table><tr><td>$:e['image']</td><td valign="top"><div class="name">$:e['title']</div><div>$:e['date'][:10]</div></td></tr></table></a></div>
 <div id="foot">
 <b>(cc) BY-NC-SA</b><br/>Powered by <a href="https://github.com/codepongo/cook">cook</a><br/>Proudly NOT powered by WordPress or Jekyll
 </div>
