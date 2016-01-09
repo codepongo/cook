@@ -19,6 +19,7 @@ except:
     css_path = './css'
     web.config.debug=True
     domain ='http://127.0.0.1:8080'
+    suffix = '.md'
 
 class base:
     def __init__(self):
@@ -29,7 +30,7 @@ class base:
             if os.path.isdir(p):
                 continue
             ext = os.path.splitext(p)[1]
-            if ext == '.md':
+            if ext == suffix:
                 self.entities.append(os.path.join(path,p))
         self.entities.sort(reverse=True)
     def entity(self, idx):
@@ -42,9 +43,9 @@ class base:
             return es
         for i in range(begin, end):
             e = {}
-            e['date'] = os.path.splitext(self.entities[i])[0].replace(path+os.sep, '')
+            e['date'] = os.path.splitext(self.entities[i])[0].replace(path+os.sep, '')[:10]
             with open(self.entities[i], 'rb') as f:
-                e['id'] = i
+                e['id'] = os.path.splitext(os.path.basename(self.entities[i]))[0]
                 title = f.readline()
                 title_tag = f.readline()
                 image = f.readline()
@@ -89,14 +90,15 @@ class feed(base):
         return render.feed(entities=base.entities(self)[:5], date=date,domain=domain)
 
 class cook(base):
-    def GET(self, idx=''):
+    def GET(self, name=''):
         count = len(self.entities)
         templates = os.path.join(os.path.dirname(__file__), 'templates')
         render = web.template.render(templates)
+        if name == '':
+            return render.index(base.entities(self))
         try:
-            idx = int(idx)
+            idx = self.entities.index(os.path.join(path, name + suffix))
             p = n = True
-            print idx, count
             if idx <= 0:
                 p = False
             if idx >= count - 1:
@@ -106,7 +108,6 @@ class cook(base):
             return render.index(base.entities(self))
 
 urls = (
-    '/([0-9]*)',cook,
     '/(.*.JPEG)', static,
     '/(.*.jpeg)', static,
     '/(.*.jpg)', static,
@@ -114,6 +115,7 @@ urls = (
     '/(favicon.ico)', static,
     '/feed', feed,
     '/(robots.txt)',static,
+    '/(.*)',cook,
 
 )
 app = web.application(urls, globals())
