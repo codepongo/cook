@@ -9,6 +9,9 @@ border: 1px solid #eeeeee;
 padding: 10px;
 background:#FFF;
 }
+.entity a:hover {
+color:#FFF;
+}
 .title {
 text-align:right;
 border-bottom: 1px dotted #d9d9d9;
