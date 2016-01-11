@@ -1,6 +1,6 @@
 溜肉段
 ===============================
-![溜肉段](liurouduan01.jpg)
+![溜肉段](liu-rou-duan01.jpg)
 
 
 ## 食材 ##
@@ -8,35 +8,43 @@
 * 青椒:1个
 * 鸡蛋:2个
 * 从姜蒜:少许
-![溜肉段](liurouduan02.jpg)
+
+
+![溜肉段](liu-rou-duan02.jpg)
+
+
 ## 步骤 ##
 ### 1. 里脊肉切片，加入料酒，盐等调料腌制15分钟 ###
-![溜肉段](liurouduan03.jpg)
+![溜肉段](liu-rou-duan03.jpg)
 ### 2. 鸡蛋打碎取蛋清###
-![溜肉段](liurouduan04.jpg)
+![溜肉段](liu-rou-duan04.jpg)
 ### 3. 蛋清加入淀粉搅拌均匀 ###
-![溜肉段](liurouduan05.jpg)
+![溜肉段](liu-rou-duan05.jpg)
 
 
-![溜肉段](liurouduan07.jpg)
+![溜肉段](liu-rou-duan07.jpg)
 ### 4. 将腌制的肉片放入蛋清和淀粉的混合物中 ###
-![溜肉段](liurouduan08.jpg)
+![溜肉段](liu-rou-duan08.jpg)
 ### 5. 倒入油至锅中大火加热 ###
 加热至油略微冒烟即可
 
 
-![溜肉段](liurouduan10.jpg)
+![溜肉段](liu-rou-duan10.jpg)
 ### 6. 调制中火，将挂上蛋清和淀粉的肉片一个个下入锅中###
+![溜肉段](liu-rou-duan12.jpg)
+
+
 ### 7. 肉片全部炸完之后，再次换大火加热油锅，复炸一遍###
-![溜肉段](liurouduan11.jpg)
+![溜肉段](liu-rou-duan11.jpg)
 
 
-![溜肉段](liurouduan12.jpg)
 ### 8. 青椒切块备用 ###
-![溜肉段](liurouduan06.jpg)
+![溜肉段](liu-rou-duan06.jpg)
 ### 9. 从姜蒜、生抽、淀粉调料调成汁备用 ###
-![溜肉段](liurouduan09.jpg)
+![溜肉段](liu-rou-duan09.jpg)
 ### 10. 青椒爆锅，加入炸好肉段和少许水
 ### 11. 加入料汁大火收汁后出锅 ###
-![溜肉段](liurouduan13.jpg)
-![溜肉段](liurouduan14.jpg)
+![溜肉段](liu-rou-duan13.jpg)
+
+
+![溜肉段](liu-rou-duan14.jpg)
