@@ -13,6 +13,7 @@ try:
     css_path = conf.csspath
     web.config.debug=conf.debug
     domain = conf.domain
+    suffix = conf.suffix
 except:
     icopath = './'
     path = './md'
