@@ -10,21 +10,21 @@
 * 玉米:1个
 
 
-![排骨玉米土豆番茄汤](paiguyumitudoufanqietang01.jpg)
+![排骨玉米土豆番茄汤](pai-gu-yu-mi-tu-dou-fan-qie-tang01.jpg)
 
 
-![排骨玉米土豆番茄汤](paiguyumitudoufanqietang02.jpg)
+![排骨玉米土豆番茄汤](pai-gu-yu-mi-tu-dou-fan-qie-tang02.jpg)
 ## 步骤 ##
 ### 1. 排骨焯水 ###
 ### 2. 沥出后直接放入汤煲中，汤煲加热至水费后，换小火慢炖40分钟 ###
-![排骨玉米土豆番茄汤](paiguyumitudoufanqietang03.jpg)
+![排骨玉米土豆番茄汤](pai-gu-yu-mi-tu-dou-fan-qie-tang03.jpg)
 ### 3. 玉米，土豆，番茄切块备用 ###
-![排骨玉米土豆番茄汤](paiguyumitudoufanqietang04.jpg)
+![排骨玉米土豆番茄汤](pai-gu-yu-mi-tu-dou-fan-qie-tang04.jpg)
 ### 3. 排骨炖至40分钟后，另启一锅，炒番茄块，热油下锅炒至出汁 ###
 炒番茄可使番茄更香
 
 
-![排骨玉米土豆番茄汤](paiguyumitudoufanqietang05.jpg)
+![排骨玉米土豆番茄汤](pai-gu-yu-mi-tu-dou-fan-qie-tang05.jpg)
 ### 4. 将炒好的番茄倒入炖排骨锅中，然后加入玉米土豆和盐 ###
 如果汤量不足，可以适量补入一些水。
 后加盐排骨更宜烂。
