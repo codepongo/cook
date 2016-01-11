@@ -1,6 +1,6 @@
 菠萝咕咾肉
 ===============================
-![菠萝咕咾肉](boluogulaorou10.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou10.jpg)
 
 
 ## 食材 ##
@@ -12,32 +12,37 @@
 * 生抽:若干
 * 糖:若干
 * 醋:若干
-![菠萝咕咾肉](boluogulaorou00.jpg)
+
+
+
+![菠萝咕咾肉](bo-luo-gu-lao-rou00.jpg)
 ## 步骤 ##
 ### 1. 猪肉切片 ###
-![菠萝咕咾肉](boluogulaorou01.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou01.jpg)
 
 
-![菠萝咕咾肉](boluogulaorou07.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou07.jpg)
 ### 2. 鸡蛋打散搅匀，放入肉片搅拌  ###
-![菠萝咕咾肉](boluogulaorou02.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou02.jpg)
 ### 3. 加入淀粉，搅拌，使所有肉片都裹上淀粉  ###
-![菠萝咕咾肉](boluogulaorou03.jpg)
-### 4. 国内倒入油加热后将肉片一片片下入油锅中炸 ###
-![菠萝咕咾肉](boluogulaorou04.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou03.jpg)
+### 4. 锅内倒入油加热后将肉片一片片下入油锅中炸 ###
+![菠萝咕咾肉](bo-luo-gu-lao-rou04.jpg)
 ### 5.  炸至金黄捞出后复炸一遍 ###
-![菠萝咕咾肉](boluogulaorou05.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou05.jpg)
 ### 6.  菠萝切片 ###
-![菠萝咕咾肉](boluogulaorou06.jpg)
-### 7. 国内倒入少量油，加入番茄酱，糖和醋，加热至番茄酱冒泡 ###
+![菠萝咕咾肉](bo-luo-gu-lao-rou06.jpg)
+### 7. 锅内倒入少量油，加入番茄酱，糖和醋，加热至番茄酱冒泡 ###
 不停搅拌锅中的番茄酱汁，防止糊锅
 
 
-![菠萝咕咾肉](boluogulaorou08.jpg)
-### 8.倒入炸好的肉段和菠萝下锅翻炒 ### 
-![菠萝咕咾肉](boluogulaorou09.jpg)
-### 9.带菠萝和肉段均匀上色后出锅 ###
-![菠萝咕咾肉](boluogulaorou11.jpg)
+![菠萝咕咾肉](bo-luo-gu-lao-rou08.jpg)
+
+
+### 8.倒入炸好的肉段和菠萝下锅翻炒 ###
+![菠萝咕咾肉](bo-luo-gu-lao-rou09.jpg)
+### 9.待菠萝和肉段均匀上色后出锅 ###
+![菠萝咕咾肉](bo-luo-gu-lao-rou11.jpg)
 
 
 
