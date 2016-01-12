@@ -1,6 +1,6 @@
 鸡翅炖土豆
 ===============================
-![鸡翅炖土豆](jichiduntudou10.jpg)
+![鸡翅炖土豆](ji-chi-dun-tu-dou10.jpg)
 
 
 ## 食材 ##
@@ -8,24 +8,47 @@
 * 鸡翅:10个
 * 葱姜蒜:少许
 * 香菜:少许
-![鸡翅炖土豆](jichiduntudou02.jpg)
+
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou02.jpg)
+
+
 ## 步骤 ##
 ### 1. 鸡翅正反划口子，放入料酒，生抽，姜片腌制20分钟 ###
-![鸡翅炖土豆](jichiduntudou01.jpg)
+划口便于鸡翅入味
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou01.jpg)
+
+
 ### 2. 土豆切块，香菜切段，备用 ###
-![鸡翅炖土豆](jichiduntudou03.jpg)
-![鸡翅炖土豆](jichiduntudou04.jpg)
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou03.jpg)
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou04.jpg)
 ### 3. 葱姜蒜爆锅，放入鸡翅 ###
-腌鸡翅的汤也倒入锅中
-![鸡翅炖土豆](jichiduntudou05.jpg)
+腌鸡翅的汤也一并倒入锅中
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou05.jpg)
 ### 4. 加入土豆块 ###
 *由于之前家里省了一点胡萝卜，所以也把胡萝卜切条下锅一起炒了*
-![鸡翅炖土豆](jichiduntudou06.jpg)
-### 5. 加水没过鸡翅大火烧，20分  ###
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou06.jpg)
+
+
+### 5. 加水没过鸡翅大火烧，炖20分  ###
 注意汤汁，防止干锅
-![鸡翅炖土豆](jichiduntudou07.jpg)
+
+
+![鸡翅炖土豆](ji-chi-dun-tu-dou07.jpg)
+
+
 ### 6. 出锅后加入香菜段 ###
-![鸡翅炖土豆](jichiduntudou08.jpg)
+![鸡翅炖土豆](ji-chi-dun-tu-dou08.jpg)
 
 
-![鸡翅炖土豆](jichiduntudou09.jpg)
