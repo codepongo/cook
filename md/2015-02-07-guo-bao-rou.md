@@ -1,49 +1,62 @@
 锅包肉
 ===============================
-![锅包肉](guobaorou13.jpg)
+![锅包肉](guo-bao-rou13.jpg)
 
 
 ## 食材 ##
 * 胡萝卜:0.5根
 * 猪肉:1块
 * 姜:1块
-* 葱:0。5根
+* 葱:0.5根
 * 鸡蛋:2个
 
 
-![锅包肉](guobaorou01.jpg)
+![锅包肉](guo-bao-rou01.jpg)
 ## 步骤 ##
 ### 1.猪肉切大片  ###
 
 
-![锅包肉](guobaorou02.jpg)
+![锅包肉](guo-bao-rou02.jpg)
 
 
-![锅包肉](guobaorou03.jpg)
+![锅包肉](guo-bao-rou03.jpg)
 ### 2.葱姜胡萝卜切丝备用  ###
-![锅包肉](guobaorou04.jpg)
+![锅包肉](guo-bao-rou04.jpg)
 
 
-![锅包肉](guobaorou05.jpg)
+![锅包肉](guo-bao-rou05.jpg)
 
 
-![锅包肉](guobaorou06.jpg)
+![锅包肉](guo-bao-rou06.jpg)
+
+
 ### 3.生抽，糖，醋，盐调汁备用  ###
-![锅包肉](guobaorou07.jpg)
+![锅包肉](guo-bao-rou07.jpg)
+
+
 ### 4.鸡蛋打开后取清  ###
-![锅包肉](guobaorou08.jpg)
+![锅包肉](guo-bao-rou08.jpg)
+
+
 ### 5.向蛋清中加入淀粉，搅拌成糊状  ###
-![锅包肉](guobaorou09.jpg)
+![锅包肉](guo-bao-rou09.jpg)
 
 
-![锅包肉](guobaorou10.jpg)
-### 6.向锅内倒油加热  ###
-![锅包肉](guobaorou11.jpg)
-### 7.油热后用肉片裹上淀粉，下入锅中炸。##
+![锅包肉](guo-bao-rou10.jpg)
+
+
+### 6.向锅内倒油，大火加至油热，换中火 ###
+
+![锅包肉](guo-bao-rou11.jpg)
+### 7.待油热后，换中火，将肉片放入清淀粉糊反转，使肉片裹上一层蛋清淀粉糊，然后下入油锅炸。##
 待全部炸好后，需再复炸一遍
 
 
-![锅包肉](guobaorou12.jpg)
+![锅包肉](guo-bao-rou12.jpg)
 ### 8.锅内留少量油后将葱姜胡萝卜丝下锅，翻炒  ###
+
+
 ### 9.翻炒后加入汁和肉，翻炒后出锅 ###
-![锅包肉](guobaorou13.jpg)
+
+
+![锅包肉](guo-bao-rou13.jpg)
