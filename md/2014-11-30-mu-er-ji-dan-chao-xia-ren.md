@@ -1,6 +1,6 @@
 木耳鸡蛋炒虾仁
 ===============================
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren08.jpg)
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren08.jpg)
 
 
 ## 食材 ##
@@ -9,19 +9,23 @@
 * 葱姜蒜:少许
 * 木耳:1把
 
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren01.jpg)
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren01.jpg)
 ## 步骤 ##
 ### 1.虾剥皮取虾仁备用  ###
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren02.jpg)
+洗净，剥皮，去虾线
+
+
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren02.jpg)
 ### 2.鸡蛋打散  ###
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren03.jpg)
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren03.jpg)
 ### 3.葱姜蒜切沫  ###
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren04.jpg)
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren04.jpg)
 ### 4.木耳泡发后洗净撕成小片  ###
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren05.jpg)
-### 5.热锅放油至油冒烟后，至小火加入鸡蛋，转动锅  ###
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren06.jpg)
-### 6.盛出鸡蛋，在向锅中加入少许油，油热后加入木耳和虾仁翻炒  ###
-![木耳鸡蛋炒虾仁](muerjidanchaoxiaren07.jpg)
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren05.jpg)
+### 5.热锅放油至油冒烟后，至小火加入鸡蛋，转动锅，使鸡蛋均匀摊开，成蛋饼  ###
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren06.jpg)
+### 6.盛出鸡蛋备用 ###
+### 7.再向锅中加入少许油，油热后加入木耳和虾仁翻炒  ###
+![木耳鸡蛋炒虾仁](mu-er-ji-dan-chao-xia-ren07.jpg)
 ### 7.加入鸡蛋，盐继续翻炒  ###
-### 8.加入鸡精出锅  ###
+### 8.加入调料，完成  ###
