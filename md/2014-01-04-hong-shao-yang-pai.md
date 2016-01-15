@@ -3,14 +3,22 @@
 ![2014年11月](hong-shao-yang-pai01.jpg)
 
 
-2014年11月，更新
-
+2014年11月
 
 
 ![2014年01月04日](hong-shao-yang-pai02.jpg)
 
 
+
 2014年1月
+
+
+![红烧羊排](hong-shao-yang-pai14.jpg)
+
+
+2016年1月
+
+
 ## 食材 ##
 * 羊排
 * 土豆
@@ -28,7 +36,14 @@
 冷水放入羊排，水沸5分钟后，捞出备用。
 
 
-![羊排](hong-shao-yang-pai03.jpg)
+![羊排](hong-shao-yang-pai05.jpg)
+
+
+![红烧羊排](hong-shao-yang-pai06.jpg)
+
+
+![红烧羊排](hong-shao-yang-pai07.jpg)
+
 
 ### 2. 土豆，胡萝卜切块 ###
 ![土豆胡萝卜](hong-shao-yang-pai04.jpg)
@@ -39,9 +54,27 @@
 翻炒过程中，加入料酒和生抽。料酒去腥，生抽提鲜。
 
 
+![红烧羊排](hong-shao-yang-pai08.jpg)
+
+
+![红烧羊排](hong-shao-yang-pai09.jpg)
+
+
+![红烧羊排](hong-shao-yang-pai10.jpg)
+
+
 ### 4. 加水，加入香叶，水开后换小火炖60分钟 ###
 期间注意观察锅中水位，水少则添水，避免糊锅。
 
+
+![红烧羊排](hong-shao-yang-pai11.jpg)
+
+
 ### 5. 加入土豆块和胡萝卜块（如水量不足，则可适当补水），继续炖15分。###
+![红烧羊排](hong-shao-yang-pai12.jpg)
+
 
 ### 6. 开盖换大火收汁后出锅呈盘。###
+![红烧羊排](hong-shao-yang-pai13.jpg)
+
+
