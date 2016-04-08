@@ -16,7 +16,6 @@ $for e in entities:
 	<description><!--[CDATA[$:e['content']]]--></description>
 	<pubdate>$e['date']</pubdate>
 	<guid>$domain/$e['id']</guid>
-	<enclosure url="$e['image']" type="image/jpeg" />
 	</item>
 </channel>
 </rss>
