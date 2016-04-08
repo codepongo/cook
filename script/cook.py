@@ -75,8 +75,10 @@ class static:
                 return content
         if name == 'robots.txt':
             web.header('content-type', 'text/plain')
+        elif os.path.splitext(name)[1][1:] == 'jpg':
+            web.header('content-type', 'image/jpeg')
         else:
-            web.header('content-type', 'image/%s' % os.path.splitext(name)[1].lower())
+            web.header('content-type', 'image/%s' % os.path.splitext(name)[1][1:].lower())
         with open(os.path.join(path,name), 'rb') as f:
             content = f.read()
             f.close()
