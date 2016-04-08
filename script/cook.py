@@ -115,6 +115,7 @@ urls = (
     '/(.*.css)', static,
     '/(favicon.ico)', static,
     '/feed', feed,
+    '/rss', feed,
     '/(robots.txt)',static,
     '/(.*)',cook,
 
