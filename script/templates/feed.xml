@@ -3,7 +3,7 @@ $def with(entities, date,domain)
 <rss version="2.0">
 <channel>
 <title>CodePongo Cook RSS Feed</title>
-<link>http://$domain</link>
+<link>$domain</link>
 <description>codepongo cook</description>
 <language>zh-cn</language>
 <pubdate>$date</pubdate>
@@ -16,6 +16,7 @@ $for e in entities:
 	<description><!--[CDATA[$:e['content']]]--></description>
 	<pubdate>$e['date']</pubdate>
 	<guid>$domain/$e['id']</guid>
+	<enclosure url="$e['image']" type="image/jpeg" />
 	</item>
 </channel>
 </rss>
